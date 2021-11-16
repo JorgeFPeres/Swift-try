@@ -16,7 +16,7 @@
 <br>
 
 <p align="center">
-  <img alt="PodCastr" src="public/podcastr.svg">
+  <img alt="PodCastr" src="Tasks/Assets.xcassets/telaexample.gif" width="230px">
 </p>
 
 ## 🧪 Technologies
